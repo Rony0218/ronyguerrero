@@ -21,7 +21,7 @@ Para que funcione en tu perfil de GitHub:
   <p>
     <a href="https://ronyguerrero.com"><img src="https://img.shields.io/badge/Sitio_Web-ronyguerrero.com-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" /></a>
     <a href="https://www.linkedin.com/in/rony-adrian-guerrero-l-37b712245/"><img src="https://img.shields.io/badge/LinkedIn-Rony_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:contacto@ronyguerrero.com"><img src="https://img.shields.io/badge/Email-contacto%40ronyguerrero.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:ronyguerreroco@gmail.com"><img src="https://img.shields.io/badge/Email-contacto%40ronyguerrero.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
