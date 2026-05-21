@@ -21,7 +21,7 @@ Para que funcione en tu perfil de GitHub:
   <p>
     <a href="https://ronyguerrero.com"><img src="https://img.shields.io/badge/Sitio_Web-ronyguerrero.com-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" /></a>
     <a href="https://www.linkedin.com/in/rony-adrian-guerrero-l-37b712245/"><img src="https://img.shields.io/badge/LinkedIn-Rony_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ronyguerreroco@gmail.com"><img src="https://img.shields.io/badge/Email-contacto%40ronyguerrero.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:ronyguerreroco@gmail.com"><img src="https://img.shields.io/badge/Email-Ronyguerreroco%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -64,30 +64,6 @@ Para que funcione en tu perfil de GitHub:
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <!-- Tarjeta de Estadísticas Generales (Reemplaza Rony guerrero con tu usuario real) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Rony guerrero&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <!-- Tarjeta de Lenguajes Más Usados (Reemplaza Rony guerrero con tu usuario real) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony guerrero&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <!-- Racha de Contribuciones (Reemplaza Rony guerrero con tu usuario real) -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony guerrero&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ### 📈 Objetivos para este Año
 
