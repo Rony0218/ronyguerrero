@@ -1,5 +1,3 @@
-# README de Perfil - GitHub
-
 <!-- 
 ¡Hola, Rony! Este es tu README de perfil. 
 Para que funcione en tu perfil de GitHub:
@@ -16,7 +14,7 @@ Para que funcione en tu perfil de GitHub:
   <br/><br/>
 
   <h1>👋 ¡Hola! Soy Rony Guerrero</h1>
-  <p><strong>Entusiasta de la Inteligencia Artificial | Desarrollador Web en Crecimiento</strong></p>
+  <p><strong>Contador Público | Analista de Datos | Apasionado por la Automatización de Procesos</strong></p>
 
   <p>
     <a href="https://ronyguerrero.com"><img src="https://img.shields.io/badge/Sitio_Web-ronyguerrero.com-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" /></a>
@@ -29,30 +27,35 @@ Para que funcione en tu perfil de GitHub:
 
 ### 👤 Sobre Mí
 
-¡Bienvenido a mi perfil de GitHub! Estoy comenzando mi viaje en el desarrollo de software y la inteligencia artificial. Me fascina explorar cómo la tecnología puede transformar nuestra forma de vivir y trabajar.
+¡Bienvenido a mi perfil de GitHub! Soy **Contador Público** con un fuerte enfoque en la intersección entre las finanzas y la tecnología. Mi pasión es la **automatización de procesos** y la optimización de flujos de trabajo.
 
-- 🚀 Actualmente estoy aprendiendo y construyendo proyectos en **Desarrollo Web (HTML, CSS, JavaScript)**.
-- 🧠 Me interesa mucho el **Prompt Engineering** y el desarrollo de **Agentes de Inteligencia Artificial**.
-- 🛠️ Creo firmemente en escribir código limpio, bien organizado y visualmente impactante.
-- 🎯 Mi meta actual es dominar las tecnologías del frontend y crear aplicaciones web con integraciones de IA.
+- 💼 **Contabilidad y Finanzas**: Aporto una sólida base contable orientada a la eficiencia y el control.
+- 📊 **Analítica de Datos**: Actualmente estoy estudiando una **Especialización en Analítica de Datos** para transformar números y registros en decisiones estratégicas inteligentes.
+- 🤖 **Automatización**: Desarrollo scripts y soluciones para automatizar tareas repetitivas, optimizar reportes y conectar sistemas.
+- 🚀 **Desarrollo Web**: Aprendiendo tecnologías frontend (HTML, CSS, JavaScript) para construir interfaces y herramientas interactivas.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="left">
+  <!-- Analytics & Automation -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   
-  <!-- Version Control & Tools -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 
-  <!-- AI & Future -->
-  <img src="https://img.shields.io/badge/Inteligencia_Artificial-🤖-purple?style=flat-square" alt="AI" />
+  <!-- AI -->
   <img src="https://img.shields.io/badge/Prompt_Engineering-🧠-blue?style=flat-square" alt="Prompt Engineering" />
 </div>
 
@@ -97,3 +100,4 @@ Para que funcione en tu perfil de GitHub:
   <br/>
   <sub>Diseñado con ❤️ y "Nano Banana" 🍌</sub>
 </div>
+
